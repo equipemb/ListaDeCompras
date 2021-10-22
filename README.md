@@ -3,7 +3,7 @@
 Lista de Compras
 </h1><br>
 
-<img src="print_listacompras.jpg">
+<img src="print_listacompras.JPG">
 
 ## Tecnologias:
 1. Componentes estilizados
